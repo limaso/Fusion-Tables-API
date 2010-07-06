@@ -1,0 +1,15 @@
+Author: Marc Lipscke
+E-Mail: marc@limaso.de
+WWW:    http://limaso.de
+
+This library for Processing enables you to use the
+Google  Fusion  Tables  service  as  data provider
+for  your  visualization  projects  in  Processing
+
+Version: 0.4.2 (06-07-2010; 11:20)
+
+Features:
+  [access] [feature]
+- (public) query for data in rows
+- (public) query for data in columns
+- (public) get the whole table
