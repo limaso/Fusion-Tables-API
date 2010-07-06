@@ -13,3 +13,6 @@ Features:
 - (public) query for data in rows
 - (public) query for data in columns
 - (public) get the whole table
+
+Usage:
+(see examples in gft_api.pde)
